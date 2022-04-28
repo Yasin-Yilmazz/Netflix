@@ -1,4 +1,4 @@
 # Netflix
 Sign up page
 
-<a href="https://yasin-yilmazz.github.io/Netflix/" target="_blank">Introduction</a>
+<a href="https://yasin-yilmazz.github.io/Netflix/" target="_blank">Netflix</a>
